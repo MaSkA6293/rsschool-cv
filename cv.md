@@ -54,3 +54,11 @@ yield put(clientsClearMessage());
 }
 }
 ```
+
+## Work experience
+
+- [react-game](https://maska6293-react-game.herokuapp.com/) training project (React)
+
+## Other information
+
+- English skills A2
